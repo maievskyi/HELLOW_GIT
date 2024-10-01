@@ -18,8 +18,8 @@ int main()
 	cin >> a1;
 	cout << a1 << endl;
 	system("pause");  //выв: "для продолжения ......."
-	char t = getchar();
-	if (t == 1)exit(0);//ctrl + A
-	//if (a1 == "a")exit(0);//a
+	//char t = getchar();
+	//if (t == 1)exit(0);//ctrl + A
+	if (a1 == "a")exit(0);//a
 	return 0;
 }
