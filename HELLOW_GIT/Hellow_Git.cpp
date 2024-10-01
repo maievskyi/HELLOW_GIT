@@ -21,5 +21,8 @@ int main()
 	//char t = getchar();
 	//if (t == 1)exit(0);//ctrl + A
 	if (a1 == "a")exit(0);//a
+	//
+	//запись после индексирования
+	//
 	return 0;
 }
